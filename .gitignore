@@ -3,6 +3,7 @@
 
 # Local git file
 **/.git/*
+** .idea/*
 
 # .tfstate files
 *.tfstate
